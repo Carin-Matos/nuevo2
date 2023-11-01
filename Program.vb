@@ -14,15 +14,18 @@ Module Program
         ''mnbBDBCbbjCBJHHJCHBJHJCJHJHJHDCHJJHGDGJHGFDGJJGJK
         ''mnbBDBCbbjCBJHHJCHBJHJCJHJHJHDCHJJHGDGJHGFDGJJGJK
 
-        dim numero1,numero2,resultado as integer
+        Dim numero1, numero2, resultado As Integer
 
-        console.write("Digite el numero 1: ")
-        numero1 = console.readline
+        Console.Write("Digite el numero 1: ")
+        numero1 = Console.ReadLine
 
-        console.write("Digite el numero 2: ")
-        numero2 = console.readline
+        Console.Write("Digite el numero 2: ")
+        numero2 = Console.ReadLine
 
         resultado = numero1 + numero2
+
+        Console.WriteLine("El resultado es: " & resultado)
+        Console.ReadKey()
     End Sub
 
 End Module
