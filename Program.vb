@@ -5,6 +5,13 @@ Module Program
         Console.WriteLine("Hello World!")
 
         '''este es un cometario 
+        '''
+
 
     End Sub
+
+    Public Sub Datos()
+        ''mnbBDBCbbjCBJHHJCHBJHJCJHJHJHDCHJJHGDGJHGFDGJJGJK
+    End Sub
+
 End Module
