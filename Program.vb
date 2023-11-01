@@ -14,7 +14,7 @@ Module Program
 
     Public Sub Datos()
         ''mnbBDBCbbjCBJHHJCHBJHJCJHJHJHDCHJJHGDGJHGFDGJJGJK
-        ''mnbBDBCbbjCBJHHJCHBJHJCJHJHJHDCHJJHGDGJHGFDGJJGJK jj
+        ''mnbBDBCbbjCBJHHJCHBJHJCJHJHJHDCHJJHGDGJHGFDGJJGJK jjl
 
         Dim numero1, numero2, resultado As Integer
 
