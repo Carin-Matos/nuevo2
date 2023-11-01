@@ -4,9 +4,10 @@ Module Program
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
 
+        Dim saber As String
         '''este es un cometario 
         '''
-
+        Datos()
 
     End Sub
 
