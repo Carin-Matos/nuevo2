@@ -6,7 +6,15 @@ Module Program
 
         Dim saber As String
         '''este es un cometario 
-        '''
+       
+        Dim varibale As Integer
+
+        Dim ACTUALIZAR As Integer
+
+        Dim Prueba As Integer
+
+        Dim Objeto As Integer
+    
         '''
         Datos()
 
