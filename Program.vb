@@ -16,6 +16,7 @@ Module Program
         ''mnbBDBCbbjCBJHHJCHBJHJCJHJHJHDCHJJHGDGJHGFDGJJGJK
         ''mnbBDBCbbjCBJHHJCHBJHJCJHJHJHDCHJJHGDGJHGFDGJJGJK jjl
 
+
         Dim numero1, numero2, resultado As Integer
 
         Console.Write("Digite el numero 1: ")
