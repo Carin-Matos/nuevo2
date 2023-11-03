@@ -4,8 +4,9 @@ Module Program
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
 
+        Dim saber As String
         '''este es un cometario 
-        '''
+       
         Dim varibale As Integer
 
         Dim ACTUALIZAR As Integer
@@ -13,12 +14,16 @@ Module Program
         Dim Prueba As Integer
 
         Dim Objeto As Integer
+    
+        '''
+        Datos()
 
     End Sub
 
     Public Sub Datos()
         ''mnbBDBCbbjCBJHHJCHBJHJCJHJHJHDCHJJHGDGJHGFDGJJGJK
-        ''mnbBDBCbbjCBJHHJCHBJHJCJHJHJHDCHJJHGDGJHGFDGJJGJK
+        ''mnbBDBCbbjCBJHHJCHBJHJCJHJHJHDCHJJHGDGJHGFDGJJGJK jjl
+
 
         Dim numero1, numero2, resultado As Integer
 
